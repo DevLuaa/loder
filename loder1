@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "bloxfruitLink เอาลิ้งมาวาง "
+    [994732206]  = "https://raw.githubusercontent.com/DevLuaa/Boxfruit/main/README.md"
     [2655311011] = ""
     [1451439645] = ""
 }
